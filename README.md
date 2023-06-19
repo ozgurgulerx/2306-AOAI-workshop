@@ -9,6 +9,6 @@ In this series we will go through a set of objectives in increasing order of dif
 [AOAI Embeddings- Create a simple recommendation Engine with AzureOpenAI & Pinecone vector db](./AOAI-Embeddings-RecommendationEngine.ipynb) \
 [AOAI & SQL / Cypher Completions](./AOAI-SQL-Cypher-Completions.ipynb) \
 [AOAI & Agency with Langchain](./AOAI-Langchain%20agency.ipynb) \
-[AOAI Chat with your data](./AOAI-Chat-with-your-data.ipynb) \    
-[AOAI-ContentFilters](./AOAI-ContentFilters.ipynb) \
+[AOAI Chat with your data](./AOAI-Chat-with-your-data.ipynb)     
+[AOAI-ContentFilters](./AOAI-ContentFilters.ipynb) 
 
