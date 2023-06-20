@@ -14,7 +14,7 @@ In this series we will go through a set of objectives in increasing order of dif
 [AOAI Chat with your data](./notebooks/AOAI-Chat-with-your-data.py)     
 [AOAI-ContentFilters - InProgress](./notebooks/AOAI-ContentFilters.py) 
 [AOAI & Knowledge Graphs] \
-[AOAI ]
+[AOAI Prompt Engineering]
 [OAI Function Calling] \
 
 
