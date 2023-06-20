@@ -4,7 +4,7 @@
 ## Welcome to AzureOpenAI workshop
 In this series we will go through a set of objectives in increasing order of difficulty...
 
-[AOAI & Langchain Getting Started - Prompt Templates & Chains](./notebooks/Completions%20with%20AOAI%20%26%20Langchain.ipynb) \
+[AOAI & Langchain Getting Started - Prompt Templates, Chains, Agency](./notebooks/Completions%20with%20AOAI%20%26%20Langchain.ipynb) \
 [AOAI & Langchain - A glimpse into more advanced capabilities](./notebooks/AOAI-Langchain-advanced.ipynb) \
 [AOAI Prompt Engineering](./notebooks/AOAI-prompt-engineering.ipynb) \
 [AOAI Query your docs with AzureOpenAI & Langchain - Retrieval Augmented Generation](./notebooks/AOAI-query-your-docs.ipynb) \
